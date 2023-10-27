@@ -34,5 +34,5 @@ function capSentence(text) {
     })
   
     return capsArray.join(' ')
-  }
+  };
   
